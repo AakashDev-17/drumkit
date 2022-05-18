@@ -1,2 +1,2 @@
 # Drum Kit (HTML, CSS, Javascript)
-Drum Kit - Play by clicking or pressing keyboard keys.
+Play drum by clicking or pressing keyboard keys.
